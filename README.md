@@ -32,6 +32,37 @@ This a  java app deployed as IAAS in AWS.
  EC2 instance with api key and security group and script in the adveanced settings.
  ![image](https://github.com/Ayoub-hafidi-alaoui/Java-app-IAAS/assets/55900369/b7d941ae-e938-40b7-b3eb-30ce542d0326)
 
+# Web app
+  EC2 instance for web app. (pat attention to choose app-SG instead of backend-SG).
+
+
+
+# Routing
+  We will create a service Route 53
+  ![image](https://github.com/Ayoub-hafidi-alaoui/Java-app-IAAS/assets/55900369/cf61a332-da3b-4e23-8d36-4c262265685b)
+  go to creat hosted zone:
+    choose private hosted zone.
+    ![image](https://github.com/Ayoub-hafidi-alaoui/Java-app-IAAS/assets/55900369/696b3148-caea-4362-9bdc-e757a69962a3)
+    and choose the closest region to you.
+    ![image](https://github.com/Ayoub-hafidi-alaoui/Java-app-IAAS/assets/55900369/94101c08-1de2-4a97-bef4-236f84421939)
+
+  After creation you will find two records:
+  ![image](https://github.com/Ayoub-hafidi-alaoui/Java-app-IAAS/assets/55900369/d0c209d7-754a-40fe-8e83-c258f724fcba)
+  Go to create new record and create a new record with name db01 and choose the private ip that you have on your ec2 settings of db01
+  ![image](https://github.com/Ayoub-hafidi-alaoui/Java-app-IAAS/assets/55900369/76ec0e64-d84a-4adb-a3ee-a3cd29148a57)
+
+  You can go right now to the web-app and open a ssh connection and edit the application.properties file:
+  ![image](https://github.com/Ayoub-hafidi-alaoui/Java-app-IAAS/assets/55900369/3fd919f6-df35-4c6f-b836-ee96a02d8377)
+
+
+
+
+
+
+    
+
+
+
  
   
 
