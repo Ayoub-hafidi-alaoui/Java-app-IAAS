@@ -28,6 +28,11 @@ This a  java app deployed as IAAS in AWS.
 # Memcache
   Create EC2 instance you can follow the same steps but you need to change the script that you will find attached in the repo.
   ![image](https://github.com/Ayoub-hafidi-alaoui/Java-app-IAAS/assets/55900369/0f9e4067-583c-4ae0-bb1a-50c1b14abd9c)
+# Rabbitmq
+ EC2 instance with api key and security group and script in the adveanced settings.
+ ![image](https://github.com/Ayoub-hafidi-alaoui/Java-app-IAAS/assets/55900369/b7d941ae-e938-40b7-b3eb-30ce542d0326)
+
+ 
   
 
 
