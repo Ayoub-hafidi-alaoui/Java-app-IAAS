@@ -48,11 +48,24 @@ This a  java app deployed as IAAS in AWS.
 
   After creation you will find two records:
   ![image](https://github.com/Ayoub-hafidi-alaoui/Java-app-IAAS/assets/55900369/d0c209d7-754a-40fe-8e83-c258f724fcba)
-  Go to create new record and create a new record with name db01 and choose the private ip that you have on your ec2 settings of db01
+
+  Go to create new record and create a new record with name rm01 and choose the private ip that you have on your ec2 settings of rm01
+  ![image](https://github.com/Ayoub-hafidi-alaoui/Java-app-IAAS/assets/55900369/eeb860bc-66bc-4d31-9478-0e1d0adc2368)
+
+  ![image](https://github.com/Ayoub-hafidi-alaoui/Java-app-IAAS/assets/55900369/1d171edb-156c-4537-9a20-68538e7cd412)
+  
+  and do the same thing for db01
   ![image](https://github.com/Ayoub-hafidi-alaoui/Java-app-IAAS/assets/55900369/76ec0e64-d84a-4adb-a3ee-a3cd29148a57)
+  
 
   You can go right now to the web-app and open a ssh connection and edit the application.properties file:
   ![image](https://github.com/Ayoub-hafidi-alaoui/Java-app-IAAS/assets/55900369/3fd919f6-df35-4c6f-b836-ee96a02d8377)
+
+  ![image](https://github.com/Ayoub-hafidi-alaoui/Java-app-IAAS/assets/55900369/2849db42-903f-4ce0-9ba0-8dafc6ef1b71)
+
+
+  
+  
 
 
 
