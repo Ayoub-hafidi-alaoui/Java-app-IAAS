@@ -57,12 +57,18 @@ This a  java app deployed as IAAS in AWS.
   and do the same thing for db01
   
   ![image](https://github.com/Ayoub-hafidi-alaoui/Java-app-IAAS/assets/55900369/76ec0e64-d84a-4adb-a3ee-a3cd29148a57)
+
+  and for mc01
+
+  ![image](https://github.com/Ayoub-hafidi-alaoui/Java-app-IAAS/assets/55900369/d74ac071-6c1b-4fb2-a4b3-346ea6db2212)
+
   
 
   You can go right now to the web-app and open a ssh connection and edit the application.properties file:
   ![image](https://github.com/Ayoub-hafidi-alaoui/Java-app-IAAS/assets/55900369/3fd919f6-df35-4c6f-b836-ee96a02d8377)
 
-  ![image](https://github.com/Ayoub-hafidi-alaoui/Java-app-IAAS/assets/55900369/2849db42-903f-4ce0-9ba0-8dafc6ef1b71)
+  ![image](https://github.com/Ayoub-hafidi-alaoui/Java-app-IAAS/assets/55900369/ecce4930-6642-4107-bc45-1463c8b119d4)
+
 
 
   
