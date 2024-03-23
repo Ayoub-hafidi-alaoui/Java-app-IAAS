@@ -13,6 +13,7 @@ This a  java app deployed as IAAS in AWS.
 
 
 # Create EC2 instances:
+# MYSQL
   create EC2 instance but pay attention on two things.
   ## To add key-pair:
   ![image](https://github.com/Ayoub-hafidi-alaoui/Java-app-IAAS/assets/55900369/963671c6-b12b-44de-9cbf-bbe1a1fc1b05)
@@ -23,7 +24,12 @@ This a  java app deployed as IAAS in AWS.
   You will find the sql script attached in the repo.
   
   ![image](https://github.com/Ayoub-hafidi-alaoui/Java-app-IAAS/assets/55900369/66d8cc9e-a13a-4947-8c6f-ca76f0bbb34c)
+
+# Memcache
+  Create EC2 instance you can follow the same steps but you need to change the script that you will find attached in the repo.
+  ![image](https://github.com/Ayoub-hafidi-alaoui/Java-app-IAAS/assets/55900369/0f9e4067-583c-4ae0-bb1a-50c1b14abd9c)
   
+
 
   
 
