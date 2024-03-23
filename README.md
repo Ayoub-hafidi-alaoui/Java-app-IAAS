@@ -55,6 +55,7 @@ This a  java app deployed as IAAS in AWS.
   ![image](https://github.com/Ayoub-hafidi-alaoui/Java-app-IAAS/assets/55900369/1d171edb-156c-4537-9a20-68538e7cd412)
   
   and do the same thing for db01
+  
   ![image](https://github.com/Ayoub-hafidi-alaoui/Java-app-IAAS/assets/55900369/76ec0e64-d84a-4adb-a3ee-a3cd29148a57)
   
 
