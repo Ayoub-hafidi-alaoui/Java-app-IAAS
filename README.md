@@ -69,6 +69,13 @@ This a  java app deployed as IAAS in AWS.
 
   ![image](https://github.com/Ayoub-hafidi-alaoui/Java-app-IAAS/assets/55900369/ecce4930-6642-4107-bc45-1463c8b119d4)
 
+  We will need to create a record for app01 in order to route the traffic from the load balancer to the app
+
+  ![image](https://github.com/Ayoub-hafidi-alaoui/Java-app-IAAS/assets/55900369/93b5ffd0-89d9-450b-9745-b91e3bab0774)
+
+
+  We will return to the creation of EC2 instance of elb:
+
 
 
   
