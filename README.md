@@ -95,10 +95,13 @@ The architecture:
 
 
   You can go to the app:
+  
   run mvn install 
+  
   ![image](https://github.com/Ayoub-hafidi-alaoui/Java-app-IAAS/assets/55900369/c7e2d781-a7a1-4d68-b006-10d6fe912db9)
 
   delete ROOT folder and copy the war file generated to the ROOT.war 
+  
   ![image](https://github.com/Ayoub-hafidi-alaoui/Java-app-IAAS/assets/55900369/5e7ae1e7-7441-4c96-8743-d5bb677c502f)
 
   Don't forget to change the owner of the directory /usr/local/tomcat/webapps/ROOT/ to tomcat and group tomcat.
