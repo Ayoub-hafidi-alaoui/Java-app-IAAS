@@ -1,6 +1,8 @@
 # Java-app-IAAS
 we will try to deploy this project https://github.com/Ayoub-hafidi-alaoui/java-app-devops as IAAS in AWS.
+
 The architecture:
+
 ![image](https://github.com/Ayoub-hafidi-alaoui/Java-app-IAAS/assets/55900369/533e234f-3c42-4368-a17d-1e025075330f)
 
 
