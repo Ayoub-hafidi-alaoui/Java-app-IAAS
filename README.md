@@ -48,7 +48,7 @@ The architecture:
  ![image](https://github.com/Ayoub-hafidi-alaoui/Java-app-IAAS/assets/55900369/b7d941ae-e938-40b7-b3eb-30ce542d0326)
 
 # Web app
-  EC2 instance for web app. (pat attention to choose app-SG instead of backend-SG).
+  EC2 instance for web app. (pay attention to choose app-SG instead of backend-SG).
 
 
 
@@ -91,7 +91,7 @@ The architecture:
 
   We will return to the creation of EC2 instance of elb:
 
-  # TODO
+  # TODO (this an upcoming task to do)
 
 
   You can go to the app:
