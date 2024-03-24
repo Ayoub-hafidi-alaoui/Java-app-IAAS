@@ -5,8 +5,6 @@ The architecture:
 
 ![image](https://github.com/Ayoub-hafidi-alaoui/Java-app-IAAS/assets/55900369/533e234f-3c42-4368-a17d-1e025075330f)
 
-
-This a  java app deployed as IAAS in AWS.
 # Create a key pair:
   ![image](https://github.com/Ayoub-hafidi-alaoui/Java-app-IAAS/assets/55900369/f8dd963c-c757-4e05-bc3f-082c0a7e5fe9)
   
