@@ -90,6 +90,12 @@ This a  java app deployed as IAAS in AWS.
   sudo chown tomcat:tomcat /usr/local/tomcat/webapps/ROOT/
   sudo chown tomcat:tomcat /usr/local/tomcat/webapps/ROOT.war
 
+  I have faced an issue related to java 11. You need to change the version in the web app from 17 to 11.
+
+  If you follow all these steps you can see you web app deployed:
+  ![image](https://github.com/Ayoub-hafidi-alaoui/Java-app-IAAS/assets/55900369/1215d5d1-643e-4f5f-82b5-69efa6886edc)
+
+
   
 
 
