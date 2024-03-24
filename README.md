@@ -97,6 +97,12 @@ This a  java app deployed as IAAS in AWS.
   ![image](https://github.com/Ayoub-hafidi-alaoui/Java-app-IAAS/assets/55900369/1215d5d1-643e-4f5f-82b5-69efa6886edc)
 
 
+  using admin_vp/admin_vp as credentials:
+
+  ![image](https://github.com/Ayoub-hafidi-alaoui/Java-app-IAAS/assets/55900369/e264ee41-66ff-4d93-88b8-878f0e1d915a)
+
+
+
   
 
 
