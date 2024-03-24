@@ -101,6 +101,11 @@ This a  java app deployed as IAAS in AWS.
 
   ![image](https://github.com/Ayoub-hafidi-alaoui/Java-app-IAAS/assets/55900369/e264ee41-66ff-4d93-88b8-878f0e1d915a)
 
+  Data inserted into the cache:
+
+  ![image](https://github.com/Ayoub-hafidi-alaoui/Java-app-IAAS/assets/55900369/b5a03a28-4d52-4e69-9052-c56b5c827962)
+
+
 
 
   
